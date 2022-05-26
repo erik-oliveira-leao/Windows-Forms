@@ -1,0 +1,16 @@
+C:\Users\erik\source\repos\ctrl_informatica\ctrl_informatica\bin\Debug\ctrl_informatica.exe.config
+C:\Users\erik\source\repos\ctrl_informatica\ctrl_informatica\bin\Debug\ctrl_informatica.exe
+C:\Users\erik\source\repos\ctrl_informatica\ctrl_informatica\bin\Debug\ctrl_informatica.pdb
+C:\Users\erik\source\repos\ctrl_informatica\ctrl_informatica\obj\Debug\ctrl_informatica.csprojAssemblyReference.cache
+C:\Users\erik\source\repos\ctrl_informatica\ctrl_informatica\obj\Debug\ctrl_informatica.Form1.resources
+C:\Users\erik\source\repos\ctrl_informatica\ctrl_informatica\obj\Debug\ctrl_informatica.Properties.Resources.resources
+C:\Users\erik\source\repos\ctrl_informatica\ctrl_informatica\obj\Debug\ctrl_informatica.csproj.GenerateResource.cache
+C:\Users\erik\source\repos\ctrl_informatica\ctrl_informatica\obj\Debug\ctrl_informatica.csproj.CoreCompileInputs.cache
+C:\Users\erik\source\repos\ctrl_informatica\ctrl_informatica\obj\Debug\ctrl_informatica.exe
+C:\Users\erik\source\repos\ctrl_informatica\ctrl_informatica\obj\Debug\ctrl_informatica.pdb
+C:\Users\erik\source\repos\ctrl_informatica\ctrl_informatica\obj\Debug\ctrl_informatica.Apresentacao.Menu.resources
+C:\Users\erik\source\repos\ctrl_informatica\ctrl_informatica\obj\Debug\ctrl_informatica.Apresentacao.CadastroCliente.resources
+C:\Users\erik\source\repos\ctrl_informatica\ctrl_informatica\obj\Debug\ctrl_informatica.Apresentacao.CadastroFuncionario.resources
+C:\Users\erik\source\repos\ctrl_informatica\ctrl_informatica\obj\Debug\ctrl_informatica.Apresentacao.Chamado.resources
+C:\Users\erik\source\repos\ctrl_informatica\ctrl_informatica\obj\Debug\ctrl_informatica.Apresentacao.Menus.resources
+C:\Users\erik\source\repos\ctrl_informatica\ctrl_informatica\obj\Debug\ctrl_informatica.Apresentacao.OrdemServiço.resources
